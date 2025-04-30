@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\controller\AnimeController.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\security\SecurityConfig.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\AnimeFlixApplication.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\config\DataSeeder.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\controller\WatchlistController.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\security\JwtUtil.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\repository\AnimeRepository.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\model\User.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\model\Watchlist.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\model\Anime.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\config\SwaggerConfig.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\repository\WatchlistRepository.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\controller\AuthController.java
+C:\Users\user\Desktop\ao\backend\src\main\java\com\animeflix\repository\UserRepository.java

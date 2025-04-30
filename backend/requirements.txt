@@ -1,0 +1,10 @@
+# Backend dependencies
+spring-boot-starter-web
+spring-boot-starter-data-mongodb
+spring-boot-starter-security
+spring-boot-starter-validation
+spring-boot-starter-actuator
+spring-boot-devtools
+springdoc-openapi-ui
+jjwt
+lombok

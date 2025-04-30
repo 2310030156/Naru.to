@@ -1,0 +1,15 @@
+com\animeflix\config\SwaggerConfig.class
+com\animeflix\repository\AnimeRepository.class
+com\animeflix\model\Anime.class
+com\animeflix\repository\UserRepository.class
+com\animeflix\controller\WatchlistController.class
+com\animeflix\security\SecurityConfig.class
+com\animeflix\AnimeFlixApplication.class
+com\animeflix\model\Watchlist.class
+com\animeflix\controller\AnimeController.class
+com\animeflix\controller\AuthController.class
+com\animeflix\controller\AuthController$AuthRequest.class
+com\animeflix\security\JwtUtil.class
+com\animeflix\repository\WatchlistRepository.class
+com\animeflix\config\DataSeeder.class
+com\animeflix\model\User.class
